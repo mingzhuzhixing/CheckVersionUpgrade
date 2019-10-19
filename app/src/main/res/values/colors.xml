@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="fooyo_tint_red">#ef5d6a</color>
+    <color name="fooyo_mid_green">#50b848</color>
+    <color name="fooyo_azure">#00aeef</color>
+</resources>
